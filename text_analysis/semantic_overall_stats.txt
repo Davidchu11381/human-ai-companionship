@@ -1,0 +1,13 @@
+Overall Semantic Alignment: USER vs Chatbot
+===========================================
+         n_user = 98206.0000
+          n_bot = 118139.0000
+centroid_cosine = 0.9989
+       sample_n = 10000.0000
+    sample_mean = 0.7379
+     sample_std = 0.0350
+     sample_min = 0.6016
+     sample_25% = 0.7152
+  sample_median = 0.7362
+     sample_75% = 0.7583
+     sample_max = 1.0000
